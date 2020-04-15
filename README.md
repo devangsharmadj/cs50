@@ -1,2 +1,2 @@
 # cs50
-My CS50 Course
+My CS50x Course
